@@ -1,0 +1,3 @@
+[submodule "nvidia-macos-driver"]
+	path = nvidia-macos-driver
+	url = https://github.com/nullmoth/nvidia-macos-driver.git

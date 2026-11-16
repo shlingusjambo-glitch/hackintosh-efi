@@ -1,0 +1,7 @@
+# macOS Recovery image (too large for GitHub; download with macrecovery.py)
+com.apple.recovery.boot/
+*.dmg
+
+# macOS metadata
+.DS_Store
+._*
